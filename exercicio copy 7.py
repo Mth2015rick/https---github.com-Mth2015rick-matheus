@@ -6,4 +6,4 @@ valor3 = float(input("Digite o terceiro valor: "))
 
 lista = [valor1, valor2, valor3]
 
-print("Menor valor: ", min(lista), "\nMenor valor: ", max(lista))
+print("Menor valor: ", min(lista), "\nMaior3 valor: ", max(lista))
